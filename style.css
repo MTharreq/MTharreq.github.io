@@ -3,10 +3,27 @@ body {
 }
 
 .jumbotron {
-  padding: 22rem 1em;
+  padding: 22em 1em;
   background-color: #f5f0ea;
 }
 
 section {
   padding-top: 3rem;
+}
+
+h2 {
+  font-family: 'Urbanist', sans-serif;
+  color: #f78417;
+}
+
+.container {
+  font-family: 'Literata', serif;
+}
+
+.col-md-4 {
+  font-weight: 300;
+}
+
+footer {
+  background-color: #291608;
 }
