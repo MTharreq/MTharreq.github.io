@@ -2,13 +2,23 @@ body {
   background-color: #f5f0ea;
 }
 
-.jumbotron {
-  padding: 22em 1em;
+header {
   background-color: #f5f0ea;
+  height: 100vh;
+  display: flex;
 }
 
 section {
   padding-top: 3rem;
+}
+
+h1 {
+  font-size: 6vmax;
+  line-height: 1.2em;
+  color: #291608;
+  text-align: center;
+  font-family: 'Yeseva One', cursive;
+  margin: auto;
 }
 
 h2 {
@@ -21,6 +31,7 @@ h2 {
 }
 
 .col-md-4 {
+  text-align: justify;
   font-weight: 300;
 }
 
